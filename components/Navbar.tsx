@@ -54,7 +54,7 @@ export default function Navbar() {
 
           {/* GitHub Icon */}
           <a
-            href="https://github.com/Prtik12/FocusUp"
+            href="https://github.com/KUNDAN1334/Focus-Up"
             target="_blank"
             rel="noopener noreferrer"
             className="text-2xl transition hover:text-[#F96F5D]"
